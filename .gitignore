@@ -1,0 +1,9 @@
+# node stuff
+node_modules/
+package*.json
+
+# DX folders
+.sfdx/
+
+# VS 
+.vscode/
